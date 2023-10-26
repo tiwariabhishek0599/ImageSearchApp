@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    margin-top: 20px;
+}
+
+.search-container {
+    margin-top: 20px;
+}
+
+#search {
+    padding: 5px;
+    width: 300px;
+}
+
+#search-btn {
+    padding: 5px 10px;
+}
+
+#image-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.image {
+    margin: 10px;
+}
